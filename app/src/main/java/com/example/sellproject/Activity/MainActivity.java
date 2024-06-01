@@ -47,6 +47,7 @@
                 v.setPadding(systemBars.left, systemBars.top, systemBars.right, systemBars.bottom);
                 return insets;
             });
+            String test = "Demo nha";
 //            return null;
         }
 
